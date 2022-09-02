@@ -27,7 +27,7 @@ Temos alguns formatos de armazenamento de dados, ou seja, transações de modelo
 
 ![Capturar1](https://user-images.githubusercontent.com/86172286/188037195-2212c8c4-2175-4fbc-8934-a8c90b51e6d8.PNG)
 
-Pergunta: Temos uma solução hoje que precisamos guardar as informações de cada venda(quem é o cliente, qual foi o produto, preço)... onde armazenamos isso? Em um `OLTP - Online Transactions Processing` ou em um `OLAP - Online Analytic Processing`?
-Resposta: OLTP, porque estamos armazenando cada item.
+**Pergunta:** Temos uma solução hoje que precisamos guardar as informações de cada venda(quem é o cliente, qual foi o produto, preço)... onde armazenamos isso? Em um `OLTP - Online Transactions Processing` ou em um `OLAP - Online Analytic Processing`?
+**Resposta:** OLTP, porque estamos armazenando cada item.
 Se no final do dia precisássemos processar o lote de transações ou de vendas faria todo sentido realizar um OLAP para extrair no final do dia e/ou final do mês o volume de dados/informações e levar para o cubo/alguma ferramenta de analytics e gerar insights com gráficos.
 
