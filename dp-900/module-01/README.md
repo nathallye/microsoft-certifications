@@ -2,9 +2,7 @@
 
 ## Módulo 1: Explorar os principais conceitos de dados
 
-### Lição 1: Explorar os principais conceitos de dados
-
-- Objetivos da lição 1:
+- Objetivos do módulo 1:
   1. Identificar como os dados são definidos e armazenados;
   2. Identificar características de dados relacionais e não relacionais;
   3. Descrever e diferenciar cargas de trabalho de dados;
@@ -57,7 +55,7 @@ O processamento de dados é a conversão de dados brutos em informações releva
 
 ![image](https://user-images.githubusercontent.com/86172286/188042820-dd8b5310-6da9-4acd-9810-f9fa63e56c99.png)
 
-### Lição 1: Verificação de conhecimento
+## Módulo 1: Verificação de conhecimento
 
 ![image](https://user-images.githubusercontent.com/86172286/188043269-ea624360-61be-475e-8750-0cd8c8e672c4.png)
 
