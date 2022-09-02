@@ -56,3 +56,8 @@ O processamento de dados é a conversão de dados brutos em informações releva
   2. **Processamento de streaming:** cada novo dado é processado quando chega.
 
 ![image](https://user-images.githubusercontent.com/86172286/188042820-dd8b5310-6da9-4acd-9810-f9fa63e56c99.png)
+
+### Lição 1: Verificação de conhecimento
+
+![image](https://user-images.githubusercontent.com/86172286/188043269-ea624360-61be-475e-8750-0cd8c8e672c4.png)
+
