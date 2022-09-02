@@ -11,3 +11,19 @@
   2. **Engenheiro de dados:** Pipelines e processos de dados; Armazenamento de ingestão de dados; Preparar dados para análise; Preparar dados para processamento de análise.
   3. **Analista de dados:** Oferece insights sobre os dados; Geração de relatórios visuais; Modelagem de dados para anáçose; Combina dados para visualização e análise.
   
+![image](https://user-images.githubusercontent.com/86172286/188045230-fad57b19-5a54-40db-80c7-1a6d594192be.png)
+
+- **Feramentas comuns - Adminstrador de banco de dados:**
+  1. **Azure Data Studio:** Interface gráfica para gerenciar serviços de dados no local e baseados na nuvem; Funciona no Windows, no macOS e no Linux.
+  2. **SQL Server Management Studio:** Interface gráfica para gerenciar serviços de dados no local e baseados na nuvem; Funciona no Windows; Ferramenta de administração de banco de dados abrangente.
+  3. **Portal/CLI do Azure:** Ferramentas para gerenciamento e provisionamento de serviços de dados do Azure; Manual e automação de scripts usando o Azure Resource Manager ou criação de scripts em interface de linha de comando.
+
+![image](https://user-images.githubusercontent.com/86172286/188045869-2147ba24-2f6a-4ef0-82e8-9722d5a17e0e.png)
+
+- **Feramentas comuns - Analista de dados:**
+
+  1. **Power BI Desktop:** Ferramenta de visualização de dados; Modele e visualize dados; Gerenciamento de ativos do Azure Synapse (Pool de SQL/Pool do Spark).
+  2. **Power BI Portal/serviço do Power BI:** Criação e gerenciamento de relatórios do Power BI; Criação de painéis do Power BI; Compartilhe relatórios/conjuntos de dados.
+  3. **Power BI Report Builder:** Ferramenta de visualização de dados para relatórios paginados; Modele e visualize relatórios paginados.
+
+![image](https://user-images.githubusercontent.com/86172286/188046442-a74861aa-53f5-4d42-b4c7-cb242a5b82ef.png)
