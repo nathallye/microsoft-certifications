@@ -42,3 +42,17 @@ Resumindo, uma transação ACID é garantir que a transação que está sendo ab
 
 ![Capturar2](https://user-images.githubusercontent.com/86172286/188040480-e997500b-8a9e-499d-b353-cd9282fb8207.PNG)
 
+- Quando fazemos transações `OLAP - Online Analytic Processing//Processamento Analítico Online` precisamos seguir algumas informações, como por exemplo, `Cargas de trabalho analíticas`:
+As cargas de trabalho analíticas são usadas para análise de dados e tomada de decisões.
+  1. Resumos;
+  2. Tendências;
+  3. Informações comerciais.
+
+![image](https://user-images.githubusercontent.com/86172286/188042341-41acf015-46a4-432d-a047-d3403b96e5b5.png)
+
+- Processamento de dados:
+O processamento de dados é a conversão de dados brutos em informações relevantes por meio de um rocesso.
+  1. **Processamento em lotes:** os elementos de dados são reunidos em um grupo. Então, o grupo inteiro é processado em um momento futuro como um lote;
+  2. **Processamento de streaming:** cada novo dado é processado quando chega.
+
+![image](https://user-images.githubusercontent.com/86172286/188042820-dd8b5310-6da9-4acd-9810-f9fa63e56c99.png)
