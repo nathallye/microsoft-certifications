@@ -37,5 +37,6 @@ Os dados transacionais são informações que rastreiam as interações relacion
   2. **Consistência:** as transações só podem conduzir os dados do banco de dados de um estado válido para outro estado válido;
   3. **Isolamento:** a execução concorrente de transações deixa o banco de dados no mesmo estado;
   4. **Durabilidade:** assim que uma transação tiver sido confirmada, permanecerá assim.
-    
-    
+
+![Capturar2](https://user-images.githubusercontent.com/86172286/188040480-e997500b-8a9e-499d-b353-cd9282fb8207.PNG)
+
