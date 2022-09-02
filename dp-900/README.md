@@ -31,3 +31,11 @@ Temos alguns formatos de armazenamento de dados, ou seja, transações de modelo
 **Resposta:** OLTP, porque estamos armazenando cada item.
 Se no final do dia precisássemos processar o lote de transações ou de vendas faria todo sentido realizar um OLAP para extrair no final do dia e/ou final do mês o volume de dados/informações e levar para o cubo/alguma ferramenta de analytics e gerar insights com gráficos.
 
+- Quando fazemos transações `OLTP - Online Transactions Processing/Processamento Transações Online` precisamos seguir algumas informações, como por exemplo, `Cargas de trabalho transacionais`:
+Os dados transacionais são informações que rastreiam as interações relacionadas às atividades de uma organização.
+  1. **Atomicidade:** cada transação é tratada como uma unidade independente que resulta em sucesso completo ou falha completa;
+  2. **Consistência:** as transações só podem conduzir os dados do banco de dados de um estado válido para outro estado válido;
+  3. **Isolamento:** a execução concorrente de transações deixa o banco de dados no mesmo estado;
+  4. **Durabilidade:** assim que uma transação tiver sido confirmada, permanecerá assim.
+    
+    
