@@ -20,6 +20,11 @@
 
 ![image](https://user-images.githubusercontent.com/86172286/188045869-2147ba24-2f6a-4ef0-82e8-9722d5a17e0e.png)
 
+- **Feramentas comuns -Engenheiro de dados:**
+  1. **Azure Synapse Studio:** Portal do Azure integrado para gerenciar o Azure Synapse; Ingestão de dados(Azure Data Factory); Gerenciamento de atuvos do Azure Synapse (Pool de SQL/Pool do Spark).
+  2. **SQL Server Management Studio:** Interface gráfica para gerenciar serviços de dados no local e baseados na nuvem; Funciona no Windows; Ferramenta de administração de banco de dados abrangente.
+  3. **Portal/CLI do Azure:** Ferramentas para gerenciamento e provisionamento de serviços de dados do Azure; Manual e automação de scripts usando o Azure Resource Manager ou criação de scripts em interface de linha de comando.
+
 - **Feramentas comuns - Analista de dados:**
 
   1. **Power BI Desktop:** Ferramenta de visualização de dados; Modele e visualize dados; Gerenciamento de ativos do Azure Synapse (Pool de SQL/Pool do Spark).
