@@ -31,12 +31,14 @@ Temos alguns formatos de armazenamento de dados, ou seja, transações de modelo
 **Resposta:** OLTP, porque estamos armazenando cada item.
 Se no final do dia precisássemos processar o lote de transações ou de vendas faria todo sentido realizar um OLAP para extrair no final do dia e/ou final do mês o volume de dados/informações e levar para o cubo/alguma ferramenta de analytics e gerar insights com gráficos.
 
-- Quando fazemos transações `OLTP - Online Transactions Processing/Processamento Transações Online` precisamos seguir algumas informações, como por exemplo, `Cargas de trabalho transacionais`:
+- Quando fazemos transações `OLTP - Online Transactions Processing/Processamento Transações Online` precisamos seguir algumas informações, como por exemplo, `Cargas de trabalho transacionais - ACID`:
 Os dados transacionais são informações que rastreiam as interações relacionadas às atividades de uma organização.
-  1. **Atomicidade:** cada transação é tratada como uma unidade independente que resulta em sucesso completo ou falha completa;
-  2. **Consistência:** as transações só podem conduzir os dados do banco de dados de um estado válido para outro estado válido;
-  3. **Isolamento:** a execução concorrente de transações deixa o banco de dados no mesmo estado;
+  1. **Atomicidade:** cada `transação` é tratada como uma `unidade independente` que resulta em sucesso completo ou falha completa; Ex.: Duas pessoas estão comprando o mesmo item, mas cada transação é tratada de forma independente, ou seja, um comprou o item X1 e outro o item X2.
+  2. **Consistência:** as transações só podem conduzir os dados do banco de dados de um estado válido para outro estado válido; Ex.: As duas pessoas do exemplo da compra anterior irão pagar via pix, então, ao fazerem as transações os dados serão validados.
+  3. **Isolamento:** a execução concorrente de transações deixa o banco de dados no mesmo estado; Ex.: Depois dos dados serem validados(verificada a consistência), em seguida precisamos isolar essas transações e é necessário que o estado do banco precisa ser válido, a tabela/entidade que iremos armazenar esses dados está no estado válido, qualquer transação que seja feita e não deixa ela válida, roda o rouback e volta a transação do começo.
   4. **Durabilidade:** assim que uma transação tiver sido confirmada, permanecerá assim.
+
+Resumindo, uma transação ACID é garantir que a transação que está sendo aberta é única(atomicidade), ela é consistênte, ela é isolada e duravél.
 
 ![Capturar2](https://user-images.githubusercontent.com/86172286/188040480-e997500b-8a9e-499d-b353-cd9282fb8207.PNG)
 
