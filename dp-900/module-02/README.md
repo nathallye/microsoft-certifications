@@ -25,6 +25,8 @@
   2. **SQL Server Management Studio:** Interface gráfica para gerenciar serviços de dados no local e baseados na nuvem; Funciona no Windows; Ferramenta de administração de banco de dados abrangente.
   3. **Portal/CLI do Azure:** Ferramentas para gerenciamento e provisionamento de serviços de dados do Azure; Manual e automação de scripts usando o Azure Resource Manager ou criação de scripts em interface de linha de comando.
 
+![image](https://user-images.githubusercontent.com/86172286/188047208-6701d048-dd1d-44a9-963d-268e49b5f19e.png)
+
 - **Feramentas comuns - Analista de dados:**
 
   1. **Power BI Desktop:** Ferramenta de visualização de dados; Modele e visualize dados; Gerenciamento de ativos do Azure Synapse (Pool de SQL/Pool do Spark).
@@ -32,3 +34,8 @@
   3. **Power BI Report Builder:** Ferramenta de visualização de dados para relatórios paginados; Modele e visualize relatórios paginados.
 
 ![image](https://user-images.githubusercontent.com/86172286/188046442-a74861aa-53f5-4d42-b4c7-cb242a5b82ef.png)
+
+## Módulo 2: Verificação de conhecimento
+
+![image](https://user-images.githubusercontent.com/86172286/188047853-f8e11282-a786-4af8-a983-322ceadf942b.png)
+
