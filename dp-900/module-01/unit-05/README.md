@@ -13,8 +13,11 @@
 - **Visualização de Dados:** Consulte os dados e crie representações gráficas de informações e dados. (Analista de Dados)
   1. Um modelo de negócios pode conter uma enorma de quantidade de informações - há técnicas para analisar e entender as informações em seus modelos: Relatórios, Bussiness Intelligence(BI) e Gráficos(Visualização de dados);
   ![image](https://user-images.githubusercontent.com/86172286/188294455-3b3d6f8d-9156-435e-9d16-528f0b0b0fea.png)
-
+- **Análise de dados:**
+    1. **Descritiva:** O que aconteceu.
+    2. **Diagnóstica:** Por que aconteceu.
+    3. **Preditiva:** O que vai acontecer no futuro.
+    4. **Prescritiva:** O que precisamos fazer para aquilo acontecer ou não acontecer.
+    5. **Cognitiva:** Tirar as tendências de todas as análises e trazer a melhor informação disso.
 ### Unidade 5: Verificação de conhecimento
-
-
 
