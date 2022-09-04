@@ -13,6 +13,9 @@
 ![image](https://user-images.githubusercontent.com/86172286/188333717-83930ec6-07ac-4b7d-9bc0-efdbe7c8f8d8.png)
 
 - **Como configurar serviços de dados relacionais:**
+
+![image](https://user-images.githubusercontent.com/86172286/188335635-b0b408ab-cca8-4715-9d07-0d9308c583bd.png)
+
   1. **Básico/Basics:** Assinatura; Grupo de recursos; Instância Gerenciada/nome do servidor; Nome do Banco de Dados(DB); Logon do Administrador; Senha; Região; Opt-in for pools (DB); Computação + Armazenamento; Tipo de Backup.
   
   - Assinatura/Subscription e Grupo de Recurso/Resource group
@@ -70,6 +73,24 @@
 
   5. **Revisão + Criar/Review + create.**
     
+- **Conectividade dentro do Azure:**
+  `Política de redirecionamento`
+  1. Um aplicativo estabelece uma conexão com o banco de dados SQL do Azure através do gateway(gateway refere-se a um pedaço de hardware de rede que possui os seguintes significados: Em uma rede de comunicações, um nó de rede equipado para interfacear com outra rede que usa protocolos diferentes);
+  2. Todas as solicitações após a primeira irão diretamente para o banco de dados;
+  3. Se a conectividade ao banco de dados falhar, o aplicativo terá que reconectar-se por meio do gateway;
+  4. O aplicativo pode ser direcionado a uma cópia diferente do banco de dados executando em outro servidor no cluster(cluster consiste em computadores fracamente ou fortemente ligados que trabalham em conjunto, de modo que, em muitos aspectos, podem ser considerados como um único sistema).
+
+  O ideal é que apontemos o geteway para o cluster e dentro do cluster tem qual é o BD principal.
+
+![image](https://user-images.githubusercontent.com/86172286/188335761-dc07b36c-9b8e-499e-b6d3-2e4c72682a14.png)
+
+- **Conectividade de fora do Azure:**
+  `Política de Proxy`
+  1. Um aplicativo estabelece uma conexão com o banco de dados SQL do Azure por meio do gateway;
+  2. Todas as solicitações passam pelo gateway;
+  3. O aplicativo pode ser direcionado a uma cópia diferente do banco de dados executando em outro servidor no cluster 
+
+![image](https://user-images.githubusercontent.com/86172286/188335895-4f5678ee-e3e1-47f6-8e52-0b6a53f5a365.png)
 
 ### Unidade 2: Verificação de conhecimento
 
