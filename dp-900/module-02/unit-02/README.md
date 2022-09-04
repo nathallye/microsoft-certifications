@@ -4,7 +4,7 @@
 
 ### Unidade 2: Explorar o provisionamento e a implantação de serviços de bancos de dados relacionais no Azure
 
-- **Objetivos do unidade 2:**
+- **Objetivos da unidade 2:**
   1. **Provisionar(providenciar) serviços de dados relacionais**;
   2. **Configurar serviços de dados relacionais**;
   3. **Explorar os problemas básicos de conectividade**;
