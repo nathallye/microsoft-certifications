@@ -95,10 +95,40 @@
 - **Autenticação e controle de acesso:**
 
   - **Autenticação forçada em "Modo Misto":**
-    Autenticação do SQL/SQL Server authentication e do AD/Active Directory autentication
-    
-  - **Autenticação forçada em "Modo Misto":**
+    Autenticação do SQL/SQL Server authentication e do Azure AD/Azure Active Directory autentication (`Option: Use both SQL and Azure AD authentication`)
+      1. Entidade de segurança em nível de servidor para servidor lógico do bano de dados;
+      2. Membro da função de servidor sysadmin para MI(Somente sysadmin pode executar inserções em massa para o SQL);
+
+  - **Precisa de autenticação no Windows?(Melhor, mais segura):**
+    Use a instânciancia Gerenciada de Autenticação do Azure AD(`Option: Only Azure Active Directory -Azure AD- authentication`)
+      1. Administrador de servidor do Azure AD;
+      2. Logons do SQL ou do Azure AD;
+      3. Usuários de Banco de Dados;
+      4. Suportea banco de dados independente do SQL Server.
+
+  - **Banco de Dados SQL do Azure:**
+    Autenticação do SQL(`Option: Use SQL authentication`)
+      1. Adminstrador de servidor do Azure AD;
+      2. Logons do SQL;
+      3. Funções loginmanager(gerenciador de login) e dbmanager(o DBManager Professional é uma das mais avançadas ferramentas para gerenciamento de dados) para administradores de servidor limitados;
+      4. Usuários de banco de dados;
+      5. Usuários de banco de dados contidos(BD contido é um banco de dados isolado de outros bancos de dados e da instância de SQL Server que hospeda o banco de dados), incluindo o Azure AD(recomendado).
+
+![image](https://user-images.githubusercontent.com/86172286/188336567-34f66ab5-bab3-4da7-b112-d799fe66c70d.png)
+
+- **RBAC(Controle de Acesso Baseado em Função) do Azure:**
+  Ajuda você a gerenciar quem tem acesso aos recursos do Azure e o que é possível fazer com esses recursos.
+  Você controla o acesso a recursos usando as atribuições de função. Uma atribuição de função comsiste em três elementos:
+    1. **Entidade de segurança:** Um objeto que representa um usuário ou serviço que está solicitando acesso ao recuso do Azure;
+    2. **Função:** Uma coleção de permissões;
+    3. **Escopo:** Um escopo lista um conjunto de recursos ao qual o acesso se aplica.
+
+  ![image](https://user-images.githubusercontent.com/86172286/188336784-734d03f9-9f1e-445a-8361-d181f680dfd0.png)
+
+- **Banco de Dados do Azure - Réplicas de leitura:**
+  As réplicas de leitura `ajudam a melhorar o desempenho e a escala de cargas de trabalho com leitura intensiva`, como Bl e análises. Considere os recursos de réplica de leitura em cenários em que atrasos na sincronização de dados entre o primário e as réplicas são aceitáveis. Crie uma réplica em uma região diferente do Azure com base no primário para um plano de recuperação de desastres em que a réplica substitui o primário em caso de desastres regionais. `O armazenamento de dados nos servidores de réplica aumenta automaticamente sem afetar as cargas de trabalho`.
   
+  ![image](https://user-images.githubusercontent.com/86172286/188336962-47f3abac-c26f-472a-905a-3106010c568e.png)
 
 ### Unidade 2: Verificação de conhecimento
 
