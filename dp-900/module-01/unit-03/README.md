@@ -56,4 +56,3 @@ Uma exibição/view é uma tabela virtual com base no conjunto de resultados de 
 ### Unidade 3: Verificação de conhecimento
 
 ![image](https://user-images.githubusercontent.com/86172286/188293121-d8d69d2b-08ab-4eeb-b5b1-ed695901f45a.png)
-
