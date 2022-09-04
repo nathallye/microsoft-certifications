@@ -10,11 +10,11 @@
   3. **Explorar os problemas básicos de conectividade**;
   4. **Explorar a segurança de dados**.
 
-![image](https://user-images.githubusercontent.com/86172286/188333717-83930ec6-07ac-4b7d-9bc0-efdbe7c8f8d8.png)
+  ![image](https://user-images.githubusercontent.com/86172286/188333717-83930ec6-07ac-4b7d-9bc0-efdbe7c8f8d8.png)
 
 - **Como configurar serviços de dados relacionais:**
 
-![image](https://user-images.githubusercontent.com/86172286/188335635-b0b408ab-cca8-4715-9d07-0d9308c583bd.png)
+  ![image](https://user-images.githubusercontent.com/86172286/188335635-b0b408ab-cca8-4715-9d07-0d9308c583bd.png)
 
   1. **Básico/Basics:** Assinatura; Grupo de recursos; Instância Gerenciada/nome do servidor; Nome do Banco de Dados(DB); Logon do Administrador; Senha; Região; Opt-in for pools (DB); Computação + Armazenamento; Tipo de Backup.
   
@@ -82,7 +82,7 @@
 
   O ideal é que apontemos o geteway para o cluster e dentro do cluster tem qual é o BD principal.
 
-![image](https://user-images.githubusercontent.com/86172286/188335761-dc07b36c-9b8e-499e-b6d3-2e4c72682a14.png)
+  ![image](https://user-images.githubusercontent.com/86172286/188335761-dc07b36c-9b8e-499e-b6d3-2e4c72682a14.png)
 
 - **Conectividade de fora do Azure:**
   `Política de Proxy`
@@ -90,7 +90,7 @@
   2. Todas as solicitações passam pelo gateway;
   3. O aplicativo pode ser direcionado a uma cópia diferente do banco de dados executando em outro servidor no cluster 
 
-![image](https://user-images.githubusercontent.com/86172286/188335895-4f5678ee-e3e1-47f6-8e52-0b6a53f5a365.png)
+  ![image](https://user-images.githubusercontent.com/86172286/188335895-4f5678ee-e3e1-47f6-8e52-0b6a53f5a365.png)
 
 - **Autenticação e controle de acesso:**
 
@@ -114,7 +114,7 @@
       4. Usuários de banco de dados;
       5. Usuários de banco de dados contidos(BD contido é um banco de dados isolado de outros bancos de dados e da instância de SQL Server que hospeda o banco de dados), incluindo o Azure AD(recomendado).
 
-![image](https://user-images.githubusercontent.com/86172286/188336567-34f66ab5-bab3-4da7-b112-d799fe66c70d.png)
+  ![image](https://user-images.githubusercontent.com/86172286/188336567-34f66ab5-bab3-4da7-b112-d799fe66c70d.png)
 
 - **RBAC(Controle de Acesso Baseado em Função) do Azure:**
   Ajuda você a gerenciar quem tem acesso aos recursos do Azure e o que é possível fazer com esses recursos.
@@ -129,7 +129,4 @@
   As réplicas de leitura `ajudam a melhorar o desempenho e a escala de cargas de trabalho com leitura intensiva`, como Bl e análises. Considere os recursos de réplica de leitura em cenários em que atrasos na sincronização de dados entre o primário e as réplicas são aceitáveis. Crie uma réplica em uma região diferente do Azure com base no primário para um plano de recuperação de desastres em que a réplica substitui o primário em caso de desastres regionais. `O armazenamento de dados nos servidores de réplica aumenta automaticamente sem afetar as cargas de trabalho`.
   
   ![image](https://user-images.githubusercontent.com/86172286/188336962-47f3abac-c26f-472a-905a-3106010c568e.png)
-
-### Unidade 2: Verificação de conhecimento
-
 
