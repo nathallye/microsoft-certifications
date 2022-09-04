@@ -96,3 +96,6 @@
   
 ### Unidade 1: Verificação de conhecimento
 
+![image](https://user-images.githubusercontent.com/86172286/188330175-21437484-4b1e-4344-9369-f2981a49e259.png)
+
+![image](https://user-images.githubusercontent.com/86172286/188330333-991779b5-ee05-461b-ac6d-f8e23bfc4b09.png)
