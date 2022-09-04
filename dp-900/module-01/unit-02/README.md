@@ -1,6 +1,8 @@
 # DP-900: Microsoft Azure Data Fundamentals
 
-## Módulo 2: Explorar funções e responsabilidades no mundo dos dados
+## Módulo 1: Explorar os principais conceitos de dados
+
+### Unidade 2: Explorar funções e responsabilidades no mundo dos dados
 
 - **Objetivos do módulo 2:**
   1. Explorar cargos de trabalho que lidam com os dados;
@@ -35,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/86172286/188046442-a74861aa-53f5-4d42-b4c7-cb242a5b82ef.png)
 
-## Módulo 2: Verificação de conhecimento
+### Unidade 2: Verificação de conhecimento
 
 ![image](https://user-images.githubusercontent.com/86172286/188047853-f8e11282-a786-4af8-a983-322ceadf942b.png)
 
