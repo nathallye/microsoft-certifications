@@ -34,8 +34,19 @@ Coleções não relacionais podem ter...
       3. **ORC - Optimized Row Columnar:** Modelo colunar de banco de dados;
 ![image](https://user-images.githubusercontent.com/86172286/188293847-1e28cc80-0785-4653-88e0-26acbfac9d0b.png)
       4. **Parquet:** Formato de arquivo gratuito e de código abertp; Formato baseado em coluna; Usado para casos de uso de análise (OLAP), normalmente em conjunto com BD's OLTP tradicionais; Compressão e descompressão de dados altamente eficientes; Suporta tipos de dados complexos e estruturas de dados aninhadas avançadas.
+      
+**O que é NoSQL?**
+
+![image](https://user-images.githubusercontent.com/86172286/188293975-e8a4ac30-2736-4501-8bee-aa22fc25ad8d.png)
+
+  1. Respositórios de chave-valor;
+  2. Baseados em documento; Ex.: MongoDB - O Cosmos DB consegue trabalhar com a API do Mongo
+  3. Bancos de dados de família de colunas;
+  4. Bancos de dados de grafo/gráficos.
+  ![image](https://user-images.githubusercontent.com/86172286/188293987-ab55595a-fe4f-4e9f-9cff-65e5af5e37ec.png)
 
 ### Unidade 4: Verificação de conhecimento
 
+![image](https://user-images.githubusercontent.com/86172286/188294069-9f6ada34-fc79-47f2-bee5-0e8bfe0d452c.png)
 
 
