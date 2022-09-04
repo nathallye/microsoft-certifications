@@ -92,6 +92,14 @@
 
 ![image](https://user-images.githubusercontent.com/86172286/188335895-4f5678ee-e3e1-47f6-8e52-0b6a53f5a365.png)
 
+- **Autenticação e controle de acesso:**
+
+  - **Autenticação forçada em "Modo Misto":**
+    Autenticação do SQL/SQL Server authentication e do AD/Active Directory autentication
+    
+  - **Autenticação forçada em "Modo Misto":**
+  
+
 ### Unidade 2: Verificação de conhecimento
 
 
