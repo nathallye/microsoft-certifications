@@ -9,7 +9,7 @@
 
 ### Unidade 1: Explorar serviços de dados relacionais no Azure
 
-- **Objetivos do unidade 1:**
+- **Objetivos da unidade 1:**
   - O que são os Serviços de Dados do Azure?
     1. **IaaS vs. Paas**;
     2. **SQL Server em máquinas virtuais do Azure**;
