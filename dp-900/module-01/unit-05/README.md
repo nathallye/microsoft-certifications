@@ -18,6 +18,8 @@
     2. **Diagnóstica:** Por que aconteceu.
     3. **Preditiva:** O que vai acontecer no futuro.
     4. **Prescritiva:** O que precisamos fazer para aquilo acontecer ou não acontecer.
-    5. **Cognitiva:** Tirar as tendências de todas as análises e trazer a melhor informação disso.
+    5. **Cognitiva:** Tirar as tendências de todas as análises e trazer a melhor informação disso. Gráfico principais influenciados BI(principais tendências de algo que vai acontecer dentro de determinado período).
+    
 ### Unidade 5: Verificação de conhecimento
 
+![image](https://user-images.githubusercontent.com/86172286/188294757-9fb8e9e3-62db-40a4-bee6-b6cfda73b7ad.png)
