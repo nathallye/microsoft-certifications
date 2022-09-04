@@ -47,3 +47,13 @@ Uma entidade é uma representação de um item que pode ser físico(como um clie
   1. Otimiza consultas de pesquisa para recuperação mais rápida de dados;
   2. Reduz a quantidade de páginas de dados que precisam ser lidas para recuperar os dados em uma declaração SQL;
   3. Os dados são recuperados unindo as tabelas em uma consulta.
+
+**Exibição/Views:**
+Uma exibição/view é uma tabela virtual com base no conjunto de resultados de uma consulta.
+  1. As exibições são criadas para simplificar a consulta;
+  2. Combine dados relacionais em uma exibição de painel simples.
+
+### Unidade 3: Verificação de conhecimento
+
+![image](https://user-images.githubusercontent.com/86172286/188293121-d8d69d2b-08ab-4eeb-b5b1-ed695901f45a.png)
+
