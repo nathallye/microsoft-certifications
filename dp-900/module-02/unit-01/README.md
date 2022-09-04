@@ -19,7 +19,7 @@
     ![image](https://user-images.githubusercontent.com/86172286/188325856-8bc1ee54-cf71-4f78-a9cd-05f832e5d24a.png)
 
 - **O que são os Serviços de Dados do Azure?(Para armazenamento relacional)**
-  1. **SQL Server**;
+  1. **Microsoft SQL Server**;
   2. **MySQL**;
   3. **MariaDB**;
   4. **PostgreSQL**.
@@ -68,12 +68,31 @@
 - **Instância Gerenciada de SQL do Azure:**
   Permite que você provisione previamente os recursos computacionais e implemente várias instâncias gerenciadas individuais até seu nível computacional provisionado previamente.
     1. Backups automáticos, correção de software, monitoramento de banco de daos e outras tarefas administrativas;
-    2. Quase 100% de compatibilidade com SQL Server local;
-    3. Compatível com outros serviços do Azure.
+    2. Quase 100% de compatibilidade com `Microsoft SQL Server` local;
+    3. Compatível com outros serviços do Azure;
+    4. Conseguimos trabalhar com vários databases por banco de dados.
     
     - **Instância única:** Uma instância do SQL Server, vários bancos de dados;
     - **Pool de instâncias:** Várias instâncias compartilham os mesmos recursos.
+    
+    ![image](https://user-images.githubusercontent.com/86172286/188329043-f791f0a8-88bd-4284-bcfe-0127d09cd8ea.png)
 
+- **Outro Bancos de Dados que conseguimos trabalhar também:**
+  1. **PostgreSQL:** O Banco de Dados do Azure para PostgreSQL é um serviço de banco de dados relacional na nuvem da Microsoft baseado no mecanismo de banco de dados PostgreSQL Community Edition;
+  2. **MySQL:** O Banco de Dados do Azure para MySQL é uma implementação PaaS do MySQL na nuvem do Azurew baseada na Community Edition do MySQL;
+  3. **MariaDB:** O Banco de Dados do Azure para MariaDB é uma implementação do sistema de gerenciamento de banco de dados MariaDB adaptado para execução no Azure. Baseia-se na Community Edition do MariaDB;
+
+  ![image](https://user-images.githubusercontent.com/86172286/188329377-948908b6-d654-4db8-86ef-b6b181fe2bee.png)
+
+  - **Benefícios do Banco de Dados do Azure para PostgreSQL, MySQL e MariaDB:**
+    1. **Banco de dados de comunidade totalmente gerenciado:** Aproveite um serviço totalmente gerenciado e, ao mesmo tempo, use as ferramentas e linguagens que você já conhece;
+    2. **Alta disponibilidade integrada para o menor TCO(Total Cost Ownership/Propriedade total de custos):** Garanta que seus dados estejam sempre disponíveis, sem custos adicionais;
+    3. **Desempenho e escala inteligentes:** Melhore o desempenho com inteligência integrada e até 16TB de armazenamento e 20 mil IOPs(Input/Output per Second/Operações de entrada e saída por segundo);
+    4. **Segurança e conformidade líderes no setor:** Proteja os dados com recursos de segurança avançada, incluindo a Proteção Avançada contra Ameaças;
+    5. **Integração com ecossitema do Azure:** Crie aplicativos mais rápidos com os serviços do Azure e preserve a sua inovação com o Azure IP advantage.
+  
+    ![image](https://user-images.githubusercontent.com/86172286/188329771-bf0f4efa-cf79-48ad-9cad-ebed9f52c558.png)
+
+  
 ### Unidade 1: Verificação de conhecimento
-
 
