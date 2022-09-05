@@ -53,7 +53,7 @@
         GROUP BY a.type, a.status # AGRUPAR POR type e status 
       ```
     
-  2. **INSERT/INSERIR:** Inserir novas linhas em uma tabela;
+  - **INSERT/INSERIR:** Inserir novas linhas em uma tabela;
 
     Exemplos práticos:
     ``` SQL
@@ -73,9 +73,32 @@
       (10256, 39, 18, 2, 0.05),
       (10258, 39, 18, 5, 0.10);
     ```
+     
+    ``` SQL
+    INSERT INTO [master].[dbo].[dp900]
+	    ([name], [age])
+    VALUES
+      ('teste', 20)
+    ```    
     
-  4. **UPDATE/ATUALIZAR:** Excluir/atualizar linhas existentes em uma tabela;
-  5. **DELETE/EXCLUIR:** Excluir linhas existentes em uma tabela.
+  - **UPDATE/ATUALIZAR:** Excluir/atualizar linhas existentes em uma tabela;
+  - **DELETE/EXCLUIR:** Excluir linhas existentes em uma tabela.
+
+- **Usando instruções DDL:**
+
+  - **CREATE/CRIAR:** Cria um objeto no banco de dados , como uma tabela ou uma exibição;
+
+    Exemplos práticos:
+    ``` SQL
+    CREATE TABLE dp900 # CRIE UMA TABELA chamada dp900
+    (ID INT PRIMARY KEY identity(1,1), # com o campo ID que será do tipo inteiro(INT) e uma chave primária(PRIMARY KEY) e outra coluna cujo será um identificador/identity que será preenchido automáticamente de 1 em 1
+    name VARCHAR(100) NOT NULL, # outra coluna chamada name que será um VARCHAR de 100 e não pode ser nulo(NOT NULL)
+    age INT NOT NULL)  # outra coluna chamada age que será um numero inteuro(INT) e não pode ser nulo(NOT NULL)
+    ```
+
+  - **ALTER/ALTERAR:** Modifica a estrutura de um objeto. Por exemplo, alterar uma tabela para adicionar uma nova coluna;
+  - **REMOVE/REMOVER:** Remove um objeto do banco de dados;
+  - **RENAME/RENOMEAR:**  Renomeia um objeto existente.  
 
 
 ### Unidade 3: Verificação de conhecimento
