@@ -32,7 +32,7 @@
       4. **GROUP BY**;
       5. **ORDER BY**;
       
-      Exemplo prático:
+      Exemplos práticos:
       ``` SQL
       SELECT * # SELECIONAR todos 
         FROM [master].[dbo].[spt_values] # DE DB [master] da tabela dbo os spt_values 
@@ -50,12 +50,32 @@
       SELECT a.type, a.status # SELECIONAR as colunas type e status de a(nomeamos essa tabela assim logo abaixo)
         FROM [master].[dbo].[spt_values] a
         WHERE number > 1000
-        GROUP BY a.type, a.status # AGRUPAR POR typo e status 
+        GROUP BY a.type, a.status # AGRUPAR POR type e status 
       ```
     
   2. **INSERT/INSERIR:** Inserir novas linhas em uma tabela;
-  3. **UPDATE/ATUALIZAR:** Excluir/atualizar linhas existentes em uma tabela;
-  4. **DELETE/EXCLUIR:** Excluir linhas existentes em uma tabela.
+
+    Exemplos práticos:
+    ``` SQL
+    # A instrução INSERT ... VALUES insere uma nova linha
+    
+    INSERT INTO [Sales].[OrderDetails]
+    (orderid, productid, unitprice, qty, discount)
+    VALUES (10255, 39, 18, 2, 0.05);
+    ```
+    
+    ``` SQL
+    # Os construtores de tabela e linha adicionam capacidade multilinha à instrução INSERT ... VALUES
+    
+    INSERT INTO [Sales].[OrderDetails]
+      (orderid, productid, unitprice, qty, discount)
+    VALUES
+      (10256, 39, 18, 2, 0.05),
+      (10258, 39, 18, 5, 0.10);
+    ```
+    
+  4. **UPDATE/ATUALIZAR:** Excluir/atualizar linhas existentes em uma tabela;
+  5. **DELETE/EXCLUIR:** Excluir linhas existentes em uma tabela.
 
 
 ### Unidade 3: Verificação de conhecimento
