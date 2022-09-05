@@ -99,8 +99,3 @@
   - **ALTER/ALTERAR:** Modifica a estrutura de um objeto. Por exemplo, alterar uma tabela para adicionar uma nova coluna;
   - **REMOVE/REMOVER:** Remove um objeto do banco de dados;
   - **RENAME/RENOMEAR:**  Renomeia um objeto existente.  
-
-
-### Unidade 3: Verificação de conhecimento
-
-
