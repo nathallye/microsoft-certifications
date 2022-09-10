@@ -77,3 +77,8 @@
     
 ### Unidade 1: Verificação de conhecimento
 
+![image](https://user-images.githubusercontent.com/86172286/189469865-8de9a0d9-2498-4e9c-923d-4ca4c49535da.png)
+
+![image](https://user-images.githubusercontent.com/86172286/189469909-2d174e2f-7e62-4139-93af-bb51c1c32dcf.png)
+
+
