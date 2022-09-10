@@ -2,7 +2,7 @@
 
 ## Módulo 2: Explorar os dados relacionais no Azure
 
-- **Objetivos do módulo 1:**
+- **Objetivos módulo 1:**
   1. Explorar serviços de dados relacionais no Azure;
   2. Explorar o provisionamento e a implantação de serviços de bancos de dados relacionais no Azure;
   3. Consultar dados relacionais no Azure.
