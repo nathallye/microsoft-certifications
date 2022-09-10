@@ -51,6 +51,8 @@
   Cria compartilhamentos de arquivo na nuvem e oferece a capacidade de acessar esses compartilhamentos de qualquer lugar com uma conexão à internet;
   
   ![image](https://user-images.githubusercontent.com/86172286/189469173-2f37222f-d60e-411b-bfb2-cce79a8531fb.png)
+
+  ![image](https://user-images.githubusercontent.com/86172286/189469380-f0fe2ec5-8622-4874-90b0-21e068e78d65.png)
   
   a. Usa o Server Message Block 3.0 (SMB) para compartilhar arquivos;
   b. Compartilhe até 100 TB de dados em uma conta de armazenamento;
@@ -58,6 +60,20 @@
   
   ![image](https://user-images.githubusercontent.com/86172286/189469060-79b869f8-0a9a-48c2-a094-db1b660daf77.png)
 
-  
+- **Explorar os casos de uso e os benefícios de gerenciamento do uso do Azure CosmosDB:**
+  - **O que é o Azure CosmosDB?**
+    O Azure Cosmos DB é€ um sistema de gerenciamento de banco de dados NoSQL/não relacionais de varios modelos.
+    
+    a. O Cosmos DB gerencia os dados como um conjunto particionado de documentos;
+    b. Acesso em tempo real com laténcias de leitura e gravacdo rapidas;
+    c. Aproveita as capacidades de escalonamento e armazenamento do Azure.
+    
+    ![image](https://user-images.githubusercontent.com/86172286/189469469-11c4d4f0-e3e5-4e3a-b414-f0588ff4d537.png)
+    
+  - **Casos de uso:**
+    a. **WEB e varejo:** Usando 0 modelo de replicação multimestre do Azure Cosmos DB e os compromissos de desempenho da Microsoft, os Engenheiros de dados podem implementar uma arquitetura de dados para dar suporte a aplicativos Web e méveis que atingem menos do que um tempo de resposta de 10 ms em qualquer lugar do mundo.
+    b. **Jogos:** A camada de banco de dados é um componente crucial dos aplicativos de jogos. Os jogos modernos realizam processamento grafico em clientes moveis/de console, mas dependem da nuvem para fornecer conteúdo personalizado, como estatisticas durante o jogo, integração de midias sociais e tabelas de classificação com as maiores pontuações.
+    c. **Cenários de IoT:** Milhares de dispositivos foram criados e vendidos para gerar dados de sensor conhecidos como dispositivos loT (Internet das Coisas). Com tecnologias como o Hub loT do Azure, os Engenheiros de Dados podem criar facilmente uma arquitetura da solucdo de dados que captura dados em tempo real. O Cosmos DB pode aceitar e armazenar essas informagdes muito rapidamente.
+    
 ### Unidade 1: Verificação de conhecimento
 
