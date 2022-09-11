@@ -33,6 +33,20 @@
 
   ![image](https://user-images.githubusercontent.com/86172286/189546035-52427cdc-414d-4cbb-b90b-dc199eaaf208.png)
  
+
+  - Criação container:
+
+   ![image](https://user-images.githubusercontent.com/86172286/189546465-8d8bad55-f187-4655-885f-c7499048197a.png)
+
+  - Inserindo dados:
+    ![image](https://user-images.githubusercontent.com/86172286/189546487-0c1bbc63-07d1-4b1f-bc2c-71d0ab7f3dd5.png)
+  
+    ![image](https://user-images.githubusercontent.com/86172286/189546507-933b043c-ec95-4898-8a85-6ada1be875b0.png)
+    
+  - Consultas:
+ 
+    ![image](https://user-images.githubusercontent.com/86172286/189546553-e6a943cf-8417-4c50-bee4-11364acf9318.png)
+
   ### Unidade 3: Verificação de conhecimento
 
   ![image](https://user-images.githubusercontent.com/86172286/189546322-9952e342-aff4-49e0-bd93-e53cdc0d3bb8.png)
