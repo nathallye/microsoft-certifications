@@ -32,7 +32,7 @@
 - **Consultas no Azure Cosmos DB:**
 
   ![image](https://user-images.githubusercontent.com/86172286/189546035-52427cdc-414d-4cbb-b90b-dc199eaaf208.png)
-
  
   ### Unidade 3: Verificação de conhecimento
 
+  ![image](https://user-images.githubusercontent.com/86172286/189546322-9952e342-aff4-49e0-bd93-e53cdc0d3bb8.png)
