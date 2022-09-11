@@ -2,7 +2,7 @@
 
 ## Módulo 3: Explorar os dados não relacionais no Azure
 
-- **Objetivos módulo 1:**
+- **Objetivos módulo 3:**
   1. Explorar serviços de dados não relacionais no Azure;
   2. Explorar o provisionamento e a implantação de serviços de dados não relacionais no Azure;
   3. Gerenciar armazenamento de dados não relacionais no Azure.
