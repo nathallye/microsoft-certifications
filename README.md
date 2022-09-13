@@ -20,5 +20,8 @@ Studies for microsoft certifications.
 
   - ### [Module 04](dp-900/module-04/README.md)
     - #### [Unit 01](dp-900/module-04/unit-01/README.md)
+    - #### [Unit 02](dp-900/module-04/unit-02/README.md)
+    - #### [Unit 03](dp-900/module-04/unit-03/README.md)
+    
 
 
