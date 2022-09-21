@@ -24,4 +24,23 @@
   2. **Servicos Cognitivos**
   3. **Servico de Bot do Azure**
 
-  
+  ![image](https://user-images.githubusercontent.com/86172286/191388376-dc6d2f89-83f9-4c04-ab57-99fe334c1d62.png)
+
+- **IA responsável**
+
+  - **Desafios e riscos com "AI"**
+    1. **Desvios podem afetar os resultados:** Ex.: um sistema de emprestimos que leva em consideção gênero, classe social... demostrando discriminação, não pode acontecer. 
+    2. **Erros podem causar danos:** Ex.: um carro autonômo que tem uma falha no sistema e causa um acidente. 
+    3. **Os dados podem ser expostos:** Ex.: um bot que faz toda a análise médica dos pacientes e esses dados vazam. Não pode ocorrer! Preocupação com segurança.
+    4. **As soluções podem não funcionar para todos:** Ex.: AI que trabalha com leitura de áudios, não vai funcionar para pessoas com limitações na fala.
+    5. **s usuarios devem confiar em um sistema complexo:** Ex.: investimentos de ações baseados em AI, se ele investe ele confia.
+    6. **Quem é o responsavel pelas decisões baseadas em IA?** Ex.: Baseado em uma série de fatos a AI condena uma pessoa, no entanto, sempre quem dá a decisão final é um ser humano, a AI trabalha com dados e uma série de fatores e probabilidade. Ela nos auxilia.
+    
+   - **Principios da IA responsável**
+    1. **Imparcialidade:** um sistema de emprestimos que leva em consideção gênero, classe social... demostrando discriminação, não pode acontecer. Esse sistema esta não esta sendo imparcial, quem o programou não foi imparcial.
+    2. **Confiabilidade e segurança:** AI confiável em relação ao sistema que ela aplica. `Relacionado a vidas`. Carro autonômo, sistemas de diagnóstico.
+    3. **Privacidade e segurança:** Dados que não podem ser vazados. Dados privados. `Relacionado a privacidade de dados`.
+    4. **Inclusão:** Através da AI proporcionar a inclusão entre diversão pessoas.
+    5. **Transparência:** A AI deve ter um log onde o usuário consiga ver o porquê ela chegou em determinado resultado. AI expõe suas decisões.
+    6. **Responsabilidade**
+    
