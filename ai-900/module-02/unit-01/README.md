@@ -22,6 +22,7 @@ Criação de modelos preditivos encontrando relações nos dados. Lições apren
 
    - **Modelo de clustering(modelo de Machine learning não supervisionado - deixa a máquina trabalhando até chegar no resultado)**
     Agrupar elementos por características semelhantes.
+    
     ![image](https://user-images.githubusercontent.com/86172286/191864063-ad9df58e-7f05-4eba-ae7d-3c0a71ec3752.png)
 
 - **O que é o Azure Machine Learning?**
@@ -39,7 +40,7 @@ Criação de modelos preditivos encontrando relações nos dados. Lições apren
     - Forneça os dados e o tipo de modelo desejado e deixe o Azure Machine Learning encontrar o melhor modelo.
 
   - Bom para quem está começando.
-  - 
+  
   ![image](https://user-images.githubusercontent.com/86172286/191864756-283fd579-2747-43cd-b1b3-aa7f74dd7625.png)
 
 - **Designer do Azure Machine Learning**
