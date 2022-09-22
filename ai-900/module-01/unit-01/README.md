@@ -26,8 +26,6 @@
 
   ![image](https://user-images.githubusercontent.com/86172286/191388376-dc6d2f89-83f9-4c04-ab57-99fe334c1d62.png)
 
-# AI-900: Azure AI Fundamentals
-
 ## Módulo 2: IA responsável
 
   - **Desafios e riscos com "AI"**
