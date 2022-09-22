@@ -10,7 +10,7 @@ Criação de modelos preditivos encontrando relações nos dados. Lições apren
     Na validação temos uma variação em relação ao que a máquina foi treinada.
     Então o resultado da regração foi, com 54°F imaginavamos alugar 114 bicicletas e foram alugadas 116... então a curva de variação pode ser tanto para baixa quanto para cima.
     
-    ![image](https://user-images.githubusercontent.com/86172286/191862510-2c388209-7e72-4c4f-979e-22f90e5741ef.png = 50x)
+    ![image](https://user-images.githubusercontent.com/86172286/191862510-2c388209-7e72-4c4f-979e-22f90e5741ef.png)
     
    - **Modelo de classificação(modelo de Machine learning supervisionado)**
     Mais complexo, tem muito falso positivo e a ideia é sempre trazer o falso positivo.
