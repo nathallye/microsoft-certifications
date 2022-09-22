@@ -10,7 +10,7 @@ Criação de modelos preditivos encontrando relações nos dados. Lições apren
     Na validação temos uma variação em relação ao que a máquina foi treinada.
     Então o resultado da regração foi, com 54°F imaginavamos alugar 114 bicicletas e foram alugadas 116... então a curva de variação pode ser tanto para baixa quanto para cima.
     
-    ![image](https://user-images.githubusercontent.com/86172286/191862510-2c388209-7e72-4c4f-979e-22f90e5741ef.png)
+    ![image](https://user-images.githubusercontent.com/86172286/191862510-2c388209-7e72-4c4f-979e-22f90e5741ef.png = 50x)
     
    - **Modelo de classificação(modelo de Machine learning supervisionado)**
     Mais complexo, tem muito falso positivo e a ideia é sempre trazer o falso positivo.
@@ -37,3 +37,16 @@ Criação de modelos preditivos encontrando relações nos dados. Lições apren
 - **Machine learning automatizado**
   - Elimina o trabalho árduo do machine learning
     - Forneça os dados e o tipo de modelo desejado e deixe o Azure Machine Learning encontrar o melhor modelo.
+
+  - Bom para quem está começando.
+  - 
+  ![image](https://user-images.githubusercontent.com/86172286/191864756-283fd579-2747-43cd-b1b3-aa7f74dd7625.png)
+
+- **Designer do Azure Machine Learning**
+  Ferramenta visual para criação de um pipeline de machine learning.
+  
+  1. Use um pipeline de treinamento para treinar e avaliar um modelo;
+  2. Crie um pipeline de inferência para prever etiquetas a partir dos dados novos;
+  3. Implante o pipeline de inferência como serviço para uso nos aplicativos.
+
+  ![image](https://user-images.githubusercontent.com/86172286/191865103-463db1f0-e567-4860-a571-c71db46afb1d.png)
