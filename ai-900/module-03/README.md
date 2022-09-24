@@ -1,6 +1,6 @@
 # AI-900: Azure AI Fundamentals
 
-## Módulo 4: Pesquisa Visual Computacional
+## Módulo 3: Pesquisa Visual Computacional
 
 - **Conceitos de Pesquisa Visual Computacional**
 
