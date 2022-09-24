@@ -25,7 +25,7 @@
       - Conversão de texto em fala
       - Conversão de fala em texto
       - Traduçao de fala
-      - 
+      
     - Tradução de Texto
     - Reconhecimento vocal
 
