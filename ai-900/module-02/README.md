@@ -1,6 +1,6 @@
 # AI-900: Azure AI Fundamentals
 
-## Módulo 3: Machine learning
+## Módulo 2: Machine learning
 
 - **O que é machine learning?**
 Criação de modelos preditivos encontrando relações nos dados. Lições aprendidas. Ação baseada em grande volume de dados.
