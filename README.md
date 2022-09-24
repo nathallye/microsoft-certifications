@@ -30,5 +30,6 @@ Studies for microsoft certifications.
   - ### [Module 02](ai-900/module-02/README.md)
   - ### [Module 03](ai-900/module-03/README.md)
   - ### [Module 04](ai-900/module-04/README.md)
+  - ### [Module 05](ai-900/module-05/README.md)
 
   
