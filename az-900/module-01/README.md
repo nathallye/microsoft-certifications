@@ -132,3 +132,5 @@ Consumidor do serviço.
 
 ![image](https://user-images.githubusercontent.com/86172286/193892776-875c0fc7-1720-4ec8-8a2f-0da52568beb6.png)
 
+- **Comparação entre os tipos de serviços**
+![image](https://user-images.githubusercontent.com/86172286/193892988-ec3c1eef-b1a0-4d02-a3dc-0bd94322427e.png)
