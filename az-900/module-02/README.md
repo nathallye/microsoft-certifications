@@ -37,3 +37,26 @@ O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem co
   Cada Região do Azure, possui zonas de disponibilidade e podemos navegar entre essas zonas caso uma venha a falhar.
   
   ![image](https://user-images.githubusercontent.com/86172286/193948293-254ffe81-98bb-4a85-a21a-89b77758e3fb.png)
+
+### Recursos do Azure
+
+Recursos do Azure são componentes como armazenamento, máquinas virtuais e redes que estado disponíveis para criar soluções em nuvem.
+
+  1. Máquinas Virtuais
+  2. Contas de Armazenamento
+  3. Redes Virtuais
+  4. Serviços de Aplicativos
+  5. Bancos de Dados SQL
+  6. Funções
+s
+São itens que colocamos, ou criamos, ou provisionamos dentro dos serviços do Azure.
+
+- **Grupos de recursos**
+
+Um grupo de recursos é um contêiner para gerenciar e agregar recursos em uma única unidade.
+  1. Os recursos podem existir em apenas um grupo de recursos.
+  2. Os recursos podem existir em diferentes regiões.
+  3. Os recursos podem ser movidos para diferentes grupos de recursos.
+  4. Os aplicativos podem utilizar vários grupos de recursos.
+
+Um recurso precisa de um grupo de recurso criado. É um agrupamento lógico. Não é físico, é virtual. É um contêiner.
