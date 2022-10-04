@@ -64,4 +64,6 @@
       2. As organizações determinam onde executar seus aplicativos.
       3. As organizações controlam os requisitos de segurança, conformidade ou jurídicos.
 
+    ![image](https://user-images.githubusercontent.com/86172286/193887476-a459b9c3-90cf-4e6b-88eb-1b3d0b9fa17f.png)
+
   
