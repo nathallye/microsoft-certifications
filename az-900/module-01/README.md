@@ -41,6 +41,27 @@
   - **Nuvem híbrida**
 
     1. Combina as nuvens `Pública` e `Privada` para permitir que os aplicativos sejam executados no local mais apropriado.
+
+    Conseguimos expandir o poder computacional de uma nuvem privada com a nuvem pública, tornando o modelo híbrido.
   
     ![image](https://user-images.githubusercontent.com/86172286/193886141-1a07399d-2cde-4070-9c3a-0eeb071be7de.png)
 
+
+  - **Comparação dos modelos de nuvem**
+
+    - `Nuvem publica`
+      1. Nenhuma despesa de capital para escalar verticalmente.
+      2. Os aplicativos podem ser rapidamente provisionados e desprovisionados.
+      3. As organizacées pagam apenas pelo que usam.
+      
+    - `Nuvem privada`
+      1. O hardware deve ser adquirido para inicialização e manutenção.
+      2. As organizações têm controle total sobre recursos e segurança.
+      3. As organizações são responsáveis pelas atualizações e pela manuteção do hardware.
+
+    - `Nuvem Hibrida`
+      1. Oferece a maior flexibilidade.
+      2. As organizações determinam onde executar seus aplicativos.
+      3. As organizações controlam os requisitos de segurança, conformidade ou jurídicos.
+
+  
