@@ -1,10 +1,8 @@
 # AZ-900: Microsoft Azure Fundamentals
 
-## Módulo 2: 
+## Módulo 2: Principais Serviços do Azure
 
-### Principais Serviços do Azure
-
--  **Regiões**
+### Regiões
 
 O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem com mais de 60 regides representando mais de 140 paises.
 
