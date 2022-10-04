@@ -124,3 +124,7 @@ Oferece ambiente para criacdo, teste e implantacdo de aplicativos de software; s
 
 ![image](https://user-images.githubusercontent.com/86172286/193892404-9842ccb3-d006-4fb7-84a4-da0cad015050.png)
 
+- **Software como Serviço (SaaS)**
+
+Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
+
