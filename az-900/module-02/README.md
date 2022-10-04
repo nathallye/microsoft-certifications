@@ -60,3 +60,5 @@ Um grupo de recursos é um contêiner para gerenciar e agregar recursos em uma �
   4. Os aplicativos podem utilizar vários grupos de recursos.
 
 Um recurso precisa de um grupo de recurso criado. É um agrupamento lógico. Não é físico, é virtual. É um contêiner.
+
+![image](https://user-images.githubusercontent.com/86172286/193949768-024db2a5-0ef8-4718-9227-01c09bfb5785.png)
