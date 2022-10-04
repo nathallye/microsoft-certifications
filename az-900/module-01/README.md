@@ -134,3 +134,6 @@ Consumidor do serviço.
 
 - **Comparação entre os tipos de serviços**
 ![image](https://user-images.githubusercontent.com/86172286/193892988-ec3c1eef-b1a0-4d02-a3dc-0bd94322427e.png)
+
+
+![image](https://user-images.githubusercontent.com/86172286/193893156-b2f5af2e-a983-4e5c-a916-9310cf162945.png)
