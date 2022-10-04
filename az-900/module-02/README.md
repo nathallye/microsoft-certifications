@@ -68,9 +68,15 @@ Um recurso precisa de um grupo de recurso criado. É um agrupamento lógico. Nã
 O Azure Resource Manager(ARM) oferece uma `camada de gerenciamento` que permite que você crie, atualize e exclua recursos na sua assinatura do Azure.
 Principal vantagem, gerênciamento de infraestrutura e gerênciamento de permisionamento(conseguimos gerar o recurso com as permissões dividamente criadas e liberadas).
 
+![image](https://user-images.githubusercontent.com/86172286/193950275-f4078ce2-48e7-46c9-a4b8-509e2658a50a.png)
+
 - **Assinaturas do Azure**
 
 Uma assinatura do Azure fornece a você acesso autenticado e autorizado às contas do Azure.
 
   1. `Limite de cobrança`: gerar faturas e relatórios de cobrançaa separados para cada assinatura.
   2. `Limite de controle de acesso`: gerenciar e controlar o acesso aos recursos que os usuários provisionam com assinaturas especificas.
+
+![image](https://user-images.githubusercontent.com/86172286/193950299-13d3cd9e-756d-4420-ac9e-3f0b2c31ed27.png)
+
+  
