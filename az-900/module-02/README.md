@@ -24,3 +24,6 @@ O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem co
   ![image](https://user-images.githubusercontent.com/86172286/193947700-c9ff679c-ddbe-48b5-89c1-c2fd2d55ff73.png)
   
 - **Opções de Disponibilidade**
+
+![image](https://user-images.githubusercontent.com/86172286/193947997-5fdb4c3c-067e-47f8-b85e-ae0b4ced6226.png)
+
