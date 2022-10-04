@@ -27,3 +27,11 @@ O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem co
 
 ![image](https://user-images.githubusercontent.com/86172286/193947997-5fdb4c3c-067e-47f8-b85e-ae0b4ced6226.png)
 
+- **Zonas de disponibilidade**
+
+  1. Oferecer proteção contra tempo de inatividade por causa de falha do datacenter.
+  2. Separar fisicamente os datacenters dentro da mesma região.
+  3. Cada datacenter é equipado com alimentação, resfriamento e rede independentes.
+  4. Conectado por meio de redes privadas de fibra óptica.
+
+  Cada Região do Azure, possui zonas de disponibilidade e podemos navegar entre essas zonas caso uma venha a falhar.
