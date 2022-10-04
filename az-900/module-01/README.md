@@ -121,12 +121,14 @@ de nuvem.
 - **Plataforma como Serviço (PaaS)**
 
 Oferece ambiente para criacdo, teste e implantacdo de aplicativos de software; sem focar no gerenciamento de infraestrutura subjacente.
+Provedor do serviço.
 
 ![image](https://user-images.githubusercontent.com/86172286/193892404-9842ccb3-d006-4fb7-84a4-da0cad015050.png)
 
 - **Software como Serviço (SaaS)**
 
 Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
+Consumidor do serviço.
 
 ![image](https://user-images.githubusercontent.com/86172286/193892776-875c0fc7-1720-4ec8-8a2f-0da52568beb6.png)
 
