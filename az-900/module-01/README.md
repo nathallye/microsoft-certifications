@@ -35,8 +35,12 @@
     3. Não fornece acesso aos usuários fora da organização.
 
     Ex.: Datacenter da empresa.
+    
+    ![image](https://user-images.githubusercontent.com/86172286/193886043-c4a11bad-e9a4-4021-8d7c-b71febed0158.png)
 
   - **Nuvem híbrida**
 
     1. Combina as nuvens `Pública` e `Privada` para permitir que os aplicativos sejam executados no local mais apropriado.
   
+    ![image](https://user-images.githubusercontent.com/86172286/193886141-1a07399d-2cde-4070-9c3a-0eeb071be7de.png)
+
