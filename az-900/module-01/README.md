@@ -111,11 +111,14 @@ Os provedores de serviços de nuvem operam em um modelo baseado em consumo, o qu
 ![image](https://user-images.githubusercontent.com/86172286/193891560-e24531a4-b4fb-4949-b690-8516e2fc73d2.png)
 
 
-- **Infraestrutura como serviço (IaaS)**
+- **Infraestrutura como Serviço (IaaS)**
 
 Criar uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor
 de nuvem.
 
 ![image](https://user-images.githubusercontent.com/86172286/193891924-9dcdd9e8-bf5e-499d-8c2b-b1fb7fe6e3ed.png)
 
+- **Plataforma como Serviço (PaaS)**
+
+Oferece ambiente para criacdo, teste e implantacdo de aplicativos de software; sem focar no gerenciamento de infraestrutura subjacente.
 
