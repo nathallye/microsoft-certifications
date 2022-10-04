@@ -128,3 +128,5 @@ Oferece ambiente para criacdo, teste e implantacdo de aplicativos de software; s
 
 Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
 
+![image](https://user-images.githubusercontent.com/86172286/193892776-875c0fc7-1720-4ec8-8a2f-0da52568beb6.png)
+
