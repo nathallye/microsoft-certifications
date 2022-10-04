@@ -82,6 +82,8 @@
   9. Considerações sobre custo preditivo;
   10. Segurança.
 
+  ![image](https://user-images.githubusercontent.com/86172286/193890083-7c22bbd3-d989-4224-9441-e1cfd24f6155.png)
+
 - **Comparar CapEx e OpEx**
 
   - `Despesas de Capital (CapEx)`
@@ -91,3 +93,5 @@
   - `Despesas Operacionais (OpEx)`
     1. Gastos em produtos e serviços conforme necessário, pagamento conforme o uso.
     2. Receber a conta imediatamente.
+
+  ![image](https://user-images.githubusercontent.com/86172286/193890143-58a86f2e-a6de-4559-82bc-f862a960f47a.png)
