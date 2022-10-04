@@ -90,8 +90,21 @@
     1. O gasto inicial de dinheiro na infraestrutura física.
     2. Os custos de CapEx têm um valor que é reduzido ao longo do tempo.
 
-  - `Despesas Operacionais (OpEx)`
+  - `Despesas Operacionais (OpEx)` - Cloud é tudo OpEx
     1. Gastos em produtos e serviços conforme necessário, pagamento conforme o uso.
     2. Receber a conta imediatamente.
 
   ![image](https://user-images.githubusercontent.com/86172286/193890143-58a86f2e-a6de-4559-82bc-f862a960f47a.png)
+
+### Serviços de Nuvem
+
+- **Modelo baseado em consumo**
+
+Os provedores de serviços de nuvem operam em um modelo baseado em consumo, o que significa que os usuários finais só pagam pelos recursos que usam. O que for usado é o que eles pagam.
+
+  1. Melhor previsão de custos; 
+  2. São fornecidos os preços para serviços e recursos individuais;
+  3. A cobrançaé baseada no uso real.
+
+- **Pizza as A Service/Pizza como serviço**
+
