@@ -8,7 +8,7 @@
 
 O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem com mais de 60 regides representando mais de 140 paises.
 
-  1. As regides são compostas de um ou mais datacenters muito próximos. 
+  1. As regiões são compostas de um ou mais datacenters muito próximos. 
   2. Fornecer flexibilidade e escala para reduzir a latência do cliente.
   3. Preservar a residência de dados com uma oferta de conformidade abrangente.
   
@@ -23,3 +23,4 @@ O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem co
 
   ![image](https://user-images.githubusercontent.com/86172286/193947700-c9ff679c-ddbe-48b5-89c1-c2fd2d55ff73.png)
   
+- **Opções de Disponibilidade**
