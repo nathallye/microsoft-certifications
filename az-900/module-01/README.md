@@ -116,3 +116,6 @@ Os provedores de serviços de nuvem operam em um modelo baseado em consumo, o qu
 Criar uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor
 de nuvem.
 
+![image](https://user-images.githubusercontent.com/86172286/193891924-9dcdd9e8-bf5e-499d-8c2b-b1fb7fe6e3ed.png)
+
+
