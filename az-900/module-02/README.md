@@ -62,3 +62,15 @@ Um grupo de recursos é um contêiner para gerenciar e agregar recursos em uma �
 Um recurso precisa de um grupo de recurso criado. É um agrupamento lógico. Não é físico, é virtual. É um contêiner.
 
 ![image](https://user-images.githubusercontent.com/86172286/193949768-024db2a5-0ef8-4718-9227-01c09bfb5785.png)
+
+- **Azure Resource Manager**
+
+O Azure Resource Manager(ARM) oferece uma `camada de gerenciamento` que permite que você crie, atualize e exclua recursos na sua assinatura do Azure.
+Principal vantagem, gerênciamento de infraestrutura e gerênciamento de permisionamento(conseguimos gerar o recurso com as permissões dividamente criadas e liberadas).
+
+- **Assinaturas do Azure**
+
+Uma assinatura do Azure fornece a você acesso autenticado e autorizado às contas do Azure.
+
+  1. `Limite de cobrança`: gerar faturas e relatórios de cobrançaa separados para cada assinatura.
+  2. `Limite de controle de acesso`: gerenciar e controlar o acesso aos recursos que os usuários provisionam com assinaturas especificas.
