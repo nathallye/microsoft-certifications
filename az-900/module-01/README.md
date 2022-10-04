@@ -109,3 +109,10 @@ Os provedores de serviços de nuvem operam em um modelo baseado em consumo, o qu
 - **Pizza as A Service/Pizza como serviço**
 
 ![image](https://user-images.githubusercontent.com/86172286/193891560-e24531a4-b4fb-4949-b690-8516e2fc73d2.png)
+
+
+- **Infraestrutura como serviço (IaaS)**
+
+Criar uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor
+de nuvem.
+
