@@ -35,3 +35,5 @@ O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem co
   4. Conectado por meio de redes privadas de fibra óptica.
 
   Cada Região do Azure, possui zonas de disponibilidade e podemos navegar entre essas zonas caso uma venha a falhar.
+  
+  ![image](https://user-images.githubusercontent.com/86172286/193948293-254ffe81-98bb-4a85-a21a-89b77758e3fb.png)
