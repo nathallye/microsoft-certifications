@@ -133,7 +133,17 @@ Consumidor do serviço.
 ![image](https://user-images.githubusercontent.com/86172286/193892776-875c0fc7-1720-4ec8-8a2f-0da52568beb6.png)
 
 - **Comparação entre os tipos de serviços**
+
 ![image](https://user-images.githubusercontent.com/86172286/193892988-ec3c1eef-b1a0-4d02-a3dc-0bd94322427e.png)
 
+- **Modelo de responsabilidade compartilhada**
 
 ![image](https://user-images.githubusercontent.com/86172286/193893156-b2f5af2e-a983-4e5c-a916-9310cf162945.png)
+
+- **Computação sem Servidor**
+
+Com aplicativos de computação sem servidor, o provedor de serviços de nuvem provisiona, escala e gerencia automaticamente a infraestrutura necessária para executar o código.
+
+  1. O `Azure Functions` é um código que está executando seu serviço e não a infraestrutura ou plataforma subjacente. Ele cria a infraestrutura com base em um evento.
+  
+  2. Os `Aplicativos Lógicos do Azurw` são um serviço de nuvem que ajuda na automatização e na orquestração de tarefas, processos empresariais e fluxos de trabalho quando é preciso integrar aplicativos, dados, sistemas e serviços.
