@@ -11,6 +11,8 @@
     2. Rede;
     3. Armazenamento;
     4. Análise.
+    
+    ![image](https://user-images.githubusercontent.com/86172286/193884554-f0795cb0-b998-4986-9c3b-9470b025ce8e.png)
 
 - **Nuvem pública**
 
@@ -18,6 +20,6 @@
   2. Fornece recursos e serviços a várias organizações e usuários.
   3. Acessado via conexão de rede segura (geralmente pela Internet).
 
-  
+  ![image](https://user-images.githubusercontent.com/86172286/193884605-426f3c54-2632-4d49-8eb3-a005aba02bc3.png)
 
 - **Modelos de Nuvem**
