@@ -86,4 +86,6 @@ Uma assinatura do Azure fornece a você acesso autenticado e autorizado às cont
 3. E possivel oferecer suporte a 10.000 grupos de gerenciamento em um único diretório.
 4. Uma arvore de grupos de gerenciamento pode oferecer suporte a até seis níveis de profundidade.
 
+![image](https://user-images.githubusercontent.com/86172286/193950827-f5213ef1-4d87-4aea-9616-6e68c476ac06.png)
+
 
