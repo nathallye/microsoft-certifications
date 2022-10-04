@@ -77,6 +77,8 @@ Uma assinatura do Azure fornece a você acesso autenticado e autorizado às cont
   1. `Limite de cobrança`: gerar faturas e relatórios de cobrançaa separados para cada assinatura.
   2. `Limite de controle de acesso`: gerenciar e controlar o acesso aos recursos que os usuários provisionam com assinaturas especificas.
 
+![image](https://user-images.githubusercontent.com/86172286/193950299-13d3cd9e-756d-4420-ac9e-3f0b2c31ed27.png)
+
 - **Grupos de Gerenciamento**
 
 1. Os grupos de gerenciamento podem incluir várias assinaturas do Azure.
@@ -84,5 +86,4 @@ Uma assinatura do Azure fornece a você acesso autenticado e autorizado às cont
 3. E possivel oferecer suporte a 10.000 grupos de gerenciamento em um único diretório.
 4. Uma arvore de grupos de gerenciamento pode oferecer suporte a até seis níveis de profundidade.
 
-![image](https://user-images.githubusercontent.com/86172286/193950299-13d3cd9e-756d-4420-ac9e-3f0b2c31ed27.png)
 
