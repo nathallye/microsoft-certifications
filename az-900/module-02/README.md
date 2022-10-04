@@ -48,8 +48,10 @@ Recursos do Azure são componentes como armazenamento, máquinas virtuais e rede
   4. Serviços de Aplicativos
   5. Bancos de Dados SQL
   6. Funções
-s
+
 São itens que colocamos, ou criamos, ou provisionamos dentro dos serviços do Azure.
+
+![image](https://user-images.githubusercontent.com/86172286/193949646-177fe92a-c977-4c00-a362-00ab9c922ce4.png)
 
 - **Grupos de recursos**
 
