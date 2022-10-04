@@ -1,53 +1,22 @@
-# AI-900: Azure AI Fundamentals
+# AZ-900: Microsoft Azure Fundamentals
 
-## Módulo 2: Machine learning
+## Módulo 2: 
 
-- **O que é machine learning?**
-Criação de modelos preditivos encontrando relações nos dados. Lições aprendidas. Ação baseada em grande volume de dados.
+### Principais Serviços do Azure
 
-  - **Modelo de regressão(modelo de Machine learning supervisionado)**
-    Temos como exemplo uma négocio de aluguéis de bicicletas, onde através de dados coletados temos a media de bicicletas alugadas de acordo com a temperatura. 
-    Na validação temos uma variação em relação ao que a máquina foi treinada.
-    Então o resultado da regração foi, com 54°F imaginavamos alugar 114 bicicletas e foram alugadas 116... então a curva de variação pode ser tanto para baixa quanto para cima.
-    
-    ![image](https://user-images.githubusercontent.com/86172286/191862510-2c388209-7e72-4c4f-979e-22f90e5741ef.png)
-    
-   - **Modelo de classificação(modelo de Machine learning supervisionado)**
-    Mais complexo, tem muito falso positivo e a ideia é sempre trazer o falso positivo.
-    Mais próximo de 1 é verdade e mais próximo de 0 é falso.
-    
-    ![image](https://user-images.githubusercontent.com/86172286/191863420-907a4806-957e-4262-add1-b91405b69d97.png)
+-  **Regiões**
 
-    ![image](https://user-images.githubusercontent.com/86172286/191863655-14cc627f-6b2c-4d5b-a939-526d3750d4ab.png)
+O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem com mais de 60 regides representando mais de 140 paises.
 
-   - **Modelo de clustering(modelo de Machine learning não supervisionado - deixa a máquina trabalhando até chegar no resultado)**
-    Agrupar elementos por características semelhantes.
-    
-    ![image](https://user-images.githubusercontent.com/86172286/191864063-ad9df58e-7f05-4eba-ae7d-3c0a71ec3752.png)
+  1. As regides são compostas de um ou mais datacenters muito próximos. 
+  2. Fornecer flexibilidade e escala para reduzir a latência do cliente.
+  3. Preservar a residência de dados com uma oferta de conformidade abrangente.
 
-- **O que é o Azure Machine Learning?**
-  Uma plataforma baseada em nuvem para machine learning. Assinatura do Azure. Plataforma.
-    - Computação;
-    - Dados;
-    - Experimentos;
-    - Modelos;
-    - Serviços.
- 
-  ![image](https://user-images.githubusercontent.com/86172286/191864436-85385503-0fd8-4d46-900a-493a0a7da9d7.png)
+-  **Pares de Regiões**
 
-- **Machine learning automatizado**
-  - Elimina o trabalho árduo do machine learning
-    - Forneça os dados e o tipo de modelo desejado e deixe o Azure Machine Learning encontrar o melhor modelo.
+  1. No minimo 300 milhas de separação entre pares de regiões.
+  2. Replicações automática para alguns serviços.
+  3. Recuperação de região priorizada em caso de interrupção.
+  4. As atualizações são lançadas sequencialmente para minimizar o tempo de inatividade.
 
-  - Bom para quem está começando.
   
-  ![image](https://user-images.githubusercontent.com/86172286/191864756-283fd579-2747-43cd-b1b3-aa7f74dd7625.png)
-
-- **Designer do Azure Machine Learning**
-  Ferramenta visual para criação de um pipeline de machine learning.
-  
-  1. Use um pipeline de treinamento para treinar e avaliar um modelo;
-  2. Crie um pipeline de inferência para prever etiquetas a partir dos dados novos;
-  3. Implante o pipeline de inferência como serviço para uso nos aplicativos.
-
-  ![image](https://user-images.githubusercontent.com/86172286/191865103-463db1f0-e567-4860-a571-c71db46afb1d.png)
