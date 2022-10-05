@@ -90,4 +90,73 @@ Estrutura de árvore/hierarquia onde aplicamos as condições de gerênciamento 
 
 ![image](https://user-images.githubusercontent.com/86172286/193950827-f5213ef1-4d87-4aea-9616-6e68c476ac06.png)
 
+- **Serviços de computação do Azure**
 
+A computação do Azure é um serviço de computação sob demanda que fornece recursos de computação, como discos, processadores, memória, rede e sistemas operacionais.
+
+  1. `Máquinas Virtuais`
+  As Máquinas Virtuais (VM) do Azure são emulacões de software de computadores físicos.
+    - Inclui processador virtual, memória armazenamento e rede.
+    - Oferta de IaaS que oferece personalização e controle total.
+
+  2. `Serviço de Aplicativo do Azure`
+  O Serviço de Aplicativo do Azure é uma plataforma totalmente gerenciada para criar, implantar e escalar aplicativos Web e APIs com rapidez.
+    - Trabalha com .NET, .NET Core, Node,js, Java, Python ou php.
+    - Oferta de PaaS com requisitos de nível corporativo de desempenho, segurança e conformidade.
+
+  3. `Instâncias de Contêiner do Azure`
+  Os Contêineres do Azure sdo um ambiente virtualizado leve que não exige gerenciamento do sistema operacional e pode responder a mudanças sob demanda.
+    - `Instâncias de Contêiner do Azure:` uma oferta do PaaS que executa um contêiner no Azure sem precisar gerenciar uma máquina virtual ou serviços adicionais.
+    - `Serviço de Kubernetes do Azure:` um serviço de orquestração para contêineres com arquiteturas distribuidas e grandes volumes de contêineres.
+
+  4. `Área de Trabalho Virtual do Azure`
+  A Área de Trabalho Virtual do Azure é uma virtualização de desktop e aplicativo que roda na nuvem.
+    - Criar um ambiente completo de virtualização da área de trabalho sem precisar executar outros servidores de gateway. 
+    - Publicar pools de host ilimitados para acomodar várias cargas de trabalho.
+    - Reduzir custos com recursos em pool, com várias sessões.
+
+- **Serviços de rede do Azure**
+
+A `Rede Virtual (VNet) do Azure` permite que recursos do Azure se comuniquem entre si, com a Internet e com redes locais.
+
+O `Gateway de Rede Virtual Privada (VPN)` é usado para enviar tráfego criptografado entre uma rede virtual do Azure e um local na Internet pública.
+
+O `Express Route do Azure` amplia redes locais para o Azure por meio de uma conexao privada facilitada por um provedor de conectividade.
+
+- **Serviços de armazenamento do Azure**
+
+O `armazenamento de contêiner (blob)` é otimizado para armazenar grandes quantidades de dados não estruturados, como dados binários ou de texto.
+
+O` armazenamento em disco` fornece discos para máquinas virtuais, aplicativos e outros serviços acessarem e usarem.
+
+Os `Arquivos do Azure` configuram compartilhamentos de arquivos de rede altamente disponíveis que podem ser acessados usando o protocolo padrão Bloco de Mensagens do Servidor (SMB).
+
+### Serviços de Banco de Dados do Azure
+
+O `Azure Cosmos Database` é um serviço de banco de dados distribuido globalmente que escala de maneira elástica e independente a taxa de transferência e o armazenamento.
+
+O `Banco de Dados SQL do Azure` é um banco de dados relacional como serviço (DaaS) baseado na última versão estável do mecanismo de banco de dados do Microsoft SQL server.
+
+O `Banco de Dados do Azure para MySQL` é um serviço do banco de dados MySQL totalmente gerenciado para desenvolvedores de aplicativos.
+
+O `Banco de Dados do Azure para PostgreSQL` é um serviço de banco de dados relacional baseado no mecanismo de banco de dados Postgres open-source.
+
+- **Instância Gerenciada de SQL do Azure**
+
+A Instância Gerenciada de SQL do Azure permite que os clientes existentes do SQL Server fagam “lift and shift” dos aplicativos locais para a nuvem com o mínimo de alteracdes no aplicativo e no banco de dados.
+
+  - Plataforma como serviço totalmente gerenciada e sempre atualizada.
+  - Preserva todos os recursos do `PaaS` (atualizações de versão e aplicacado de patch automáticas, backups automatizados e alta disponibilidade)
+  - Troca as licenças existentes para taxas descontadas na instância Gerenciada de SQL usando 0 Beneficio Hibrido do Azure.
+
+
+### Explorar o Azure Marketplace
+
+O Azure Marketplace permite que os clientes localizem, experimentem, comprem e provisionem aplicativos e serviços de centenas dos principais provedores de serviço,
+todos certificados para execução no Azure.
+
+  - Plataformas de contêiner open-source.
+  - Imagens da máquina virtual e do banco de dados.
+  - Software de compilação e implantação de aplicativos.
+  - Ferramentas para desenvolvedores.
+  - E muito mais, com mais de 10.000 itens listados!
