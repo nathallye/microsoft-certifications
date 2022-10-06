@@ -103,3 +103,5 @@ Os ataques DDoS sobrecarregam e esgotam recursos de rede, tornando os aplicativo
   1. Limpa o trafego de rede indesejado antes que ele afete a disponibilidade do serviço.
   2. A camada de serviço básica é automaticamente ativada no Azure.
   3. A camada de serviço padrão adiciona recursos de mitigacão ajustados para proteger os recursos de Rede Virtual do Azure.
+
+![image](https://user-images.githubusercontent.com/86172286/194383606-6426d0d3-65df-4f62-8e11-abadcc27b4d3.png)
