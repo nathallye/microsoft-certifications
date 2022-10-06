@@ -24,7 +24,11 @@
 
 Autenticação é quando você pode acesssar. E até onde você pode ir é sua Autorização.
 
+![image](https://user-images.githubusercontent.com/86172286/194387416-69e0ccb3-7bd2-4d01-ba87-fd3758fcf5df.png)
+
 **Autenticacao multifator do Azure**
 
 Fornece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa.
 Algo que você sabe <--> Algo que você tem <--> Algo que vocé é
+
+![image](https://user-images.githubusercontent.com/86172286/194387473-4118f3b1-b25e-4203-8fb7-72b276b93ffe.png)
