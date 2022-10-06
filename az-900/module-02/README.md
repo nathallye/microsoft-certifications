@@ -127,7 +127,7 @@ O `Express Route do Azure` amplia redes locais para o Azure por meio de uma cone
 
 O `armazenamento de contêiner (blob)` é otimizado para armazenar grandes quantidades de dados não estruturados, como dados binários ou de texto.
 
-O` armazenamento em disco` fornece discos para máquinas virtuais, aplicativos e outros serviços acessarem e usarem.
+O `armazenamento em disco` fornece discos para máquinas virtuais, aplicativos e outros serviços acessarem e usarem.
 
 Os `Arquivos do Azure` configuram compartilhamentos de arquivos de rede altamente disponíveis que podem ser acessados usando o protocolo padrão Bloco de Mensagens do Servidor (SMB).
 
