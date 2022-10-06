@@ -26,3 +26,5 @@ Conector e Integrações:
   - Proteção Avançada contra
   - Ameaças do Azure
   - Microsoft Cloud App Security
+
+![image](https://user-images.githubusercontent.com/86172286/194377955-e1981c40-5b5a-4a83-a9b0-7f680371b578.png)
