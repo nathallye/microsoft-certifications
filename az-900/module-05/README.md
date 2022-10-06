@@ -1,6 +1,6 @@
 # AZ-900: Microsoft Azure Fundamentals
 
-## Módulo 4: Segurança
+## Módulo 5: ldentidade, governanga, privacidade e conformidade
 
 ### Recursos de Segurança do Azure
 
