@@ -71,8 +71,14 @@ Descrever a funcionalidade e o uso de:
   - Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar.
   - Habilite o acesso ao portal do Azure e o controle de acesso aos recursos.
 
+![image](https://user-images.githubusercontent.com/86172286/194427213-7bb4991d-9173-4445-9db4-aa68caca5e34.png)
+
 - **Bloqueios de recursos**
 
 - Proteja os recursos do Azure de exclusão ou modificacão acidental.
-
 - Gerencie bloqueios nos níveis de assinatura, grupo de recursos ou recursos individuais no portal do Azure.
+
+![image](https://user-images.githubusercontent.com/86172286/194427330-0c715e37-6966-4c8f-90a4-826ccce77cf9.png)
+
+
+
