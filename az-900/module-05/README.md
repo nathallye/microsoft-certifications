@@ -88,3 +88,28 @@ Descrever a funcionalidade e o uso de:
 4. Muito úteis para reunir informacões de cobrança.
 
 ![image](https://user-images.githubusercontent.com/86172286/194428527-c50e5d7a-f904-483a-b4ce-5e27a695b15d.png)
+
+
+- **Azure Policy**
+
+O Azure Policy ajuda a impor padrões organizacionais e avaliar conformidade em escala. Fornece governança e consistência de recursos com conformidade regulamentar, segurança, custos e gerenciamento.
+
+- Avalia e identifica os recursos do Azure que não atendem as suas politicas.
+- Fornece definições de politicas e iniciativas integradas, em categorias como Armazenamento, Rede, Computação, Central de Segurança e Monitoramento.
+
+Gestão das regras do negocio.
+
+- **Azure Blueprints**
+
+O Azure Blueprints possibilita que as equipes de desenvolvimento criem e implantem novos ambientes com rapidez. As equipes de desenvolvimento podem desenvolver a confiança rapidamente por meio de conformidade organizacional com um conjunto de componentes integrados (como rede) para acelerar o desenvolvimento e a entrega.
+
+- Atribuições de função
+- Atribuicões de politica
+- Modelos do Azure Resource Manager
+- Grupos de recursos
+
+- **Cloud Adoption Framework**
+
+- A abordagem One Microsoft para adocão de nuvem no Azure.
+- Melhores práticas dos funcionários, parceiros e clientes da Microsoft.
+- Ferramentas, orientações e narrativas para estratégias e resultados.
