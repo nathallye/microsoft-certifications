@@ -113,3 +113,5 @@ O Azure Blueprints possibilita que as equipes de desenvolvimento criem e implant
 - A abordagem One Microsoft para adocão de nuvem no Azure.
 - Melhores práticas dos funcionários, parceiros e clientes da Microsoft.
 - Ferramentas, orientações e narrativas para estratégias e resultados.
+
+![image](https://user-images.githubusercontent.com/86172286/194439235-39da890b-6f44-4c8e-b8e6-d49ba83d1e57.png)
