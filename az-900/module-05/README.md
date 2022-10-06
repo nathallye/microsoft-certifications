@@ -45,3 +45,7 @@ O Azure Active Directory (AAD) é 0 servico de gerenciamento de acesso e identid
 - Gerenciamento de dispositivos.
 
 Gerenciador de domínio e válidação usuário e senha.
+
+**Acesso condicional**
+
+![image](https://user-images.githubusercontent.com/86172286/194389037-8f73ec4f-68e7-44b0-8316-b6d4ab69d25e.png)
