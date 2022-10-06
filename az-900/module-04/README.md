@@ -67,5 +67,6 @@ Camadas:
 - **Seguranca Compartilhada**
 
 - Migrar de datacenters controlados pelo cliente para datacenters baseados em nuvem muda a responsabilidade pela segurança.
-
 - A segurança se torna um interesse compartilhado entre provedores de nuvem e clientes.
+
+![image](https://user-images.githubusercontent.com/86172286/194381784-b593793a-8ac4-4984-890a-6404a8aafde1.png)
