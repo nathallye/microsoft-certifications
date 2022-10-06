@@ -32,3 +32,16 @@ Fornece segurança adicional para as identidades, exigindo dois ou mais elemento
 Algo que você sabe <--> Algo que você tem <--> Algo que vocé é
 
 ![image](https://user-images.githubusercontent.com/86172286/194387473-4118f3b1-b25e-4203-8fb7-72b276b93ffe.png)
+
+- **Azure Active Directory (AAD):**
+
+O Azure Active Directory (AAD) é 0 servico de gerenciamento de acesso e identidade baseado em nuvem do Microsoft Azure.
+
+- Autenticacão (credenciais dos funcionários para acessar os recursos).
+- Logon unico (SSO)
+- Gerenciamento de aplicativos.
+- Entre empresas (B2B) - Federação relação de segurança
+- Serviços de identidade entre empresa e cliente (B2C).
+- Gerenciamento de dispositivos.
+
+Gerenciador de domínio e válidação usuário e senha.
