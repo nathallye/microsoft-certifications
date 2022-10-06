@@ -149,7 +149,6 @@ A Instância Gerenciada de SQL do Azure permite que os clientes existentes do SQ
   - Preserva todos os recursos do `PaaS` (atualizações de versão e aplicacado de patch automáticas, backups automatizados e alta disponibilidade)
   - Troca as licenças existentes para taxas descontadas na instância Gerenciada de SQL usando 0 Beneficio Hibrido do Azure.
 
-
 ### Explorar o Azure Marketplace
 
 O Azure Marketplace permite que os clientes localizem, experimentem, comprem e provisionem aplicativos e serviços de centenas dos principais provedores de serviço,
@@ -160,3 +159,5 @@ todos certificados para execução no Azure.
   - Software de compilação e implantação de aplicativos.
   - Ferramentas para desenvolvedores.
   - E muito mais, com mais de 10.000 itens listados!
+  
+![image](https://user-images.githubusercontent.com/86172286/194191736-f29532f7-554a-4994-aaf9-722e6217cdbf.png)
