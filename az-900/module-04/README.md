@@ -28,3 +28,44 @@ Conector e Integrações:
   - Microsoft Cloud App Security
 
 ![image](https://user-images.githubusercontent.com/86172286/194377955-e1981c40-5b5a-4a83-a9b0-7f680371b578.png)
+
+- **Azure Key Vault**
+
+O Azure Key Vault armazena segredos do aplicativo em um local de nuvem centralizado para controlar com segurança as permissões e o registro em log de acesso.
+
+  - Gerenciamento de segredos.
+  - Gerenciamento de chaves.
+  - Gerenciamento de certificados.
+  - Armazenar segredos apoiados por módulos de segurança de hardware (HSMs).
+
+- **Host Dedicado do Azure**
+
+O Host Dedicado do Azure fornece servidores físicos que hospedam uma ou mais máquinas virtuais do Azure dedicadas a carga de trabalho de uma única organização.
+
+Beneficios
+  - Isolamento do hardware no nivel do servidor
+  - Controle sobre o tempo do evento de manutenção
+  - linhado com os Beneficios Hibridos de Uso do Azure
+
+### Conectividade de rede segura
+
+- **Protecgado completa/Sistemas de Camadas**
+
+1. Uma abordagem em camadas para proteger sistemas de computador.
+2. Fornece vários níveis de proteção.
+3. Ataques contra uma camada são isolados das camadas subsequentes.
+
+Camadas:
+  - Segurança física
+  - Identidade e acesso
+  - Perímetro
+  - Rede
+  - Computação
+  - Aplicativo
+  - Dados
+
+- **Seguranca Compartilhada**
+
+- Migrar de datacenters controlados pelo cliente para datacenters baseados em nuvem muda a responsabilidade pela segurança.
+
+- A segurança se torna um interesse compartilhado entre provedores de nuvem e clientes.
