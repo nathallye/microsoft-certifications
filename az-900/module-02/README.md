@@ -160,4 +160,6 @@ todos certificados para execução no Azure.
   - Ferramentas para desenvolvedores.
   - E muito mais, com mais de 10.000 itens listados!
   
+- **Camadas de acesso de armazenamento do Azure**
+
 ![image](https://user-images.githubusercontent.com/86172286/194191736-f29532f7-554a-4994-aaf9-722e6217cdbf.png)
