@@ -1,6 +1,6 @@
 # AZ-900: Microsoft Azure Fundamentals
 
-## Módulo 5: ldentidade, governanga, privacidade e conformidade
+## Módulo 5: Identidade, governança, privacidade e conformidade
 
 ### Principais servicos de identidade do Azure
 
@@ -48,4 +48,31 @@ Gerenciador de domínio e válidação usuário e senha.
 
 **Acesso condicional**
 
+Politica aplicada para cada usuário ou grupo de usuários.
+
 ![image](https://user-images.githubusercontent.com/86172286/194389037-8f73ec4f-68e7-44b0-8316-b6d4ab69d25e.png)
+
+### Governança
+
+- **Metodologias de governança do Azure - Domínio de objetivo**
+
+Descrever a funcionalidade e o uso de:
+
+  - RBAC (controle de acesso baseado em função) 
+  - Bloqueios de recursos
+  - Marcas
+  - Azure Policy
+  - Azure Blueprints
+  - Cloud Adoption Framework para o Azure
+
+- **Explorar RBAC (controle de acesso baseado em função)**
+
+  - Gerenciamento de acesso de granularidade fina.
+  - Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar.
+  - Habilite o acesso ao portal do Azure e o controle de acesso aos recursos.
+
+- **Bloqueios de recursos**
+
+- Proteja os recursos do Azure de exclusão ou modificacão acidental.
+
+- Gerencie bloqueios nos níveis de assinatura, grupo de recursos ou recursos individuais no portal do Azure.
