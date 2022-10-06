@@ -25,4 +25,6 @@ Internet das Coisas (loT) é a capacidade dos dispositivos de reunir e retransmi
 - `GitHub Actions para Azure:` automatizar o fluxo de trabalho de software para criar, testar e implantar de dentro do GitHub.
 - `Azure DevtTest Labs:` criar rapidamente ambientes no Azure enquanto minimiza os gastos e controla os custos.
 
+### Ferramentas de gerenciamento disponiveis no Azure
+
 ![image](https://user-images.githubusercontent.com/86172286/194196823-e27cbb9a-e796-4f22-a9ab-57e016b902e0.png)
