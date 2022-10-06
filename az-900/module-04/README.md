@@ -12,6 +12,8 @@ A Central de Segurança do Azure é um serviço de monitoramento que fornece pro
   - Detectar e bloquear malwares
   - Analisar e identificar possiveis ataques
   - Controle de acesso just-in-time para portas
+  
+  ![image](https://user-images.githubusercontent.com/86172286/194377866-30f37cf7-dd1d-497c-b506-98b7f11a7ada.png)
 
 - **Azure Sentinel**
 
