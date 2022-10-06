@@ -75,10 +75,15 @@ Descrever a funcionalidade e o uso de:
 
 - **Bloqueios de recursos**
 
-- Proteja os recursos do Azure de exclusão ou modificacão acidental.
-- Gerencie bloqueios nos níveis de assinatura, grupo de recursos ou recursos individuais no portal do Azure.
+1. Proteja os recursos do Azure de exclusão ou modificacão acidental.
+2. Gerencie bloqueios nos níveis de assinatura, grupo de recursos ou recursos individuais no portal do Azure.
 
 ![image](https://user-images.githubusercontent.com/86172286/194427330-0c715e37-6966-4c8f-90a4-826ccce77cf9.png)
 
+- **Marcas/Tags**
 
+1. Fornecem metadados aos recursos do Azure.
+2. Organizam os recursos em uma taxonomia de maneira lógica.
+3. Consistem em um par nome-valor.
+4. Muito úteis para reunir informacões de cobrança.
 
