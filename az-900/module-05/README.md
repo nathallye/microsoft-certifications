@@ -2,7 +2,7 @@
 
 ## Módulo 5: Identidade, governança, privacidade e conformidade
 
-### Principais servicos de identidade do Azure
+### Principais serviços de identidade do Azure
 
 - **Servicos de identidade do Azure - Domínio de objetivo**
 
@@ -115,3 +115,14 @@ O Azure Blueprints possibilita que as equipes de desenvolvimento criem e implant
 - Ferramentas, orientações e narrativas para estratégias e resultados.
 
 ![image](https://user-images.githubusercontent.com/86172286/194439235-39da890b-6f44-4c8e-b8e6-d49ba83d1e57.png)
+
+### Privacidade e Conformidade
+
+- **Segurança, privacidade e conformidade**
+
+`Segurança:` Intencionalmente seguro. Com Segurança inteligente integrada, a Microsoft ajuda a proteger contra ameaças cibernéticas conhecidas e desconhecidas, usando automacao e inteligéncia artificial.
+
+`Privacidade:` Temos o compromisso de garantir a privacidade das organizações por meio de nossos acordos contratuais e fornecendo controle e transparência ao usuário.
+
+`Conformidade:` Respeitamos legislações e regulamentos locais e fornecemos cobertura abrangente de ofertas de conformidade.
+
