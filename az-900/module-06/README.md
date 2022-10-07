@@ -30,3 +30,5 @@ A calculadora de preços é uma ferramenta que ajuda a estimar o custo dos produ
 
 - Uma ferramenta para estimar a economia de custos possivel ao migrar para o Azure.
 - Um relatório permite comparar os custos de infraestruturas locais com os custos do uso de produtos e servicos do Azure na nuvem.
+
+![image](https://user-images.githubusercontent.com/86172286/194441521-00d5baf4-f06b-4413-8ea2-13261f449481.png)
