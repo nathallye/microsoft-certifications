@@ -11,3 +11,6 @@
 5. Instâncias reservadas
 6. Benefício de uso híbrido do Azure
 
+![image](https://user-images.githubusercontent.com/86172286/194440547-6f286258-173b-4e62-b7d9-07305a10ae5e.png)
+
+![image](https://user-images.githubusercontent.com/86172286/194440571-eda4b25d-e9e1-4959-9c25-0c78c00db019.png)
