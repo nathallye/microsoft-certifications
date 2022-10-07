@@ -57,9 +57,11 @@ Os Contratos de Nivel de Serviço (SLAs) descrevem os compromissos da Microsoft 
 
 - **SLAs para produtos e serviços do Azure**
 
-- As metas de desempenho sao expressas como garantias de tempo de atividade e conectividade.
+- As metas de desempenho são expressas como garantias de tempo de atividade e conectividade.
 - As metas de desempenho variam de 99% a 99,999%.
 - Se um serviço não atender as garantias, uma porcentagem das taxas de serviço mensais poderá ser creditada.
+
+![image](https://user-images.githubusercontent.com/86172286/194442627-a8cac4c4-298e-4c77-a54d-696f46e92bd2.png)
 
 - **Acões que afetam SLAs**
 
